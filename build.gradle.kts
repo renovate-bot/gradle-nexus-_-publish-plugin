@@ -12,7 +12,7 @@ plugins {
     id("com.gradle.plugin-publish") version "1.3.1"
     id("com.diffplug.spotless") version "7.0.4"
     id("com.gradleup.shadow") version "8.3.6"
-    id("org.jetbrains.gradle.plugin.idea-ext") version "1.1.10"
+    id("org.jetbrains.gradle.plugin.idea-ext") version "1.3"
     id("com.github.ben-manes.versions") version "0.51.0"
     id("org.ajoberstar.stutter") version "1.0.0"
 }
