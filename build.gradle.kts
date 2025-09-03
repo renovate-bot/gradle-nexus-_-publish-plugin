@@ -9,7 +9,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinJvmCompile
 
 plugins {
     id("org.jetbrains.kotlin.jvm") version "1.8.22"
-    id("com.gradle.plugin-publish") version "1.3.1"
+    id("com.gradle.plugin-publish") version "2.0.0"
     id("com.diffplug.spotless") version "7.0.4"
     id("com.gradleup.shadow") version "8.3.6"
     id("org.jetbrains.gradle.plugin.idea-ext") version "1.1.10"
