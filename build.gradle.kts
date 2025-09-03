@@ -14,7 +14,7 @@ plugins {
     id("com.gradleup.shadow") version "8.3.6"
     id("org.jetbrains.gradle.plugin.idea-ext") version "1.1.10"
     id("com.github.ben-manes.versions") version "0.51.0"
-    id("org.ajoberstar.stutter") version "1.0.0"
+    id("org.ajoberstar.stutter") version "2.0.1"
 }
 
 base { archivesName = "publish-plugin" }
